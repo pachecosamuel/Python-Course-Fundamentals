@@ -9,10 +9,10 @@ letra2 = "b";
 frase = 'Batata qd "nasce" espalha a rama pelo chão';
 frase2 = "Abençoado por Deus";
 palavra = "   Python   ";
-palavra2 = "PYpro";
+palavra2 = "  PYpro  ";
 
-print(letra, "\n", letra2, "\n", frase, "\n", frase2);
-print(frase[0:7:1]);
-print(palavra.strip());
-print(palavra2.upper().strip(), palavra2.lower());
-print(frase2.split());
+# print(letra, "\n", letra2, "\n", frase, "\n", frase2);
+# print(frase[::-1]);
+# print(palavra.strip());
+# print(palavra2.upper().strip(), palavra2.lower().strip());
+# print(frase2.split('o'));

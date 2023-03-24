@@ -1,7 +1,7 @@
 x = 0;
 y = 0;
 
-print("Gx = ", x, "\nGy = ", y);
+# print("Gx = ", x, "\nGy = ", y);
 
 def MyFunction():
     y = 5;
